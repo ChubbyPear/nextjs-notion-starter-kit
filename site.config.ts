@@ -2,24 +2,24 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '26c76aec86c04347b4e18855bca737d6',
+  rootNotionPageId: 'bdc8c011e21649dbbdf7fc95831dd569',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Home',
-  domain: 'https://cyber-busby-fbb.notion.site/Pear-s-Home-26c76aec86c04347b4e18855bca737d6?pvs=4',
+  name: 'Zihang Li',
+  domain: 'https://cyber-busby-fbb.notion.site/Zihang-Li-bdc8c011e21649dbbdf7fc95831dd569?pvs=4',
   author: 'Zihang Li',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  //twitter: 'transitive_bs',
+  github: 'ChubbyPear',
+  //linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
