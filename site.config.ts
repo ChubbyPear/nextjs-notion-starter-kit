@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Pear's Home',
+  name: 'Home',
   domain: 'https://cyber-busby-fbb.notion.site/Pear-s-Home-26c76aec86c04347b4e18855bca737d6?pvs=4',
   author: 'Zihang Li',
 
